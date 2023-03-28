@@ -1,0 +1,27 @@
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+font-weight: bolder;
+font-style: italic;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    box-shadow: 15px 15px 15px yellow;
+    border: dotted 10px aqua;
+    margin-top: 30px;
+}
+#display{
+    font-size: 25px;
+    font-weight:700;
+}
